@@ -20,24 +20,12 @@ Welcome to my **Cybersecurity Tools Portfolio**! This repository showcases the c
 - Uses **machine learning** to detect ransomware before execution.
 - Prevents encryption attacks and protects sensitive data.
 
-### **5. Cloud Security Monitoring**
-- Provides **real-time insights** into cloud security vulnerabilities.
-- Ensures compliance and protects cloud infrastructure from threats.
-
 ## 📸 Screenshots & Demos
 Coming soon... *(Stay tuned for UI previews and CLI demonstrations!)*
 
 ## ⚙️ How It Works
 These tools leverage **AI, TensorFlow, Scapy, automation, and advanced cybersecurity techniques** to provide top-tier security. The full versions will be available as **premium services** for individuals and businesses.
 
-## 🚀 Installation & Setup (Demo Only)
-Want to test a limited demo? Clone this repository and follow the instructions in the demo directory:
-
-```bash
-git clone https://github.com/Vuli04/Cybersecurity-Tools-Portfolio.git
-cd Cybersecurity-Tools-Portfolio/demo
-python demo_script.py
-```
 
 *Note: This is a limited demonstration and does not include the full implementations of the tools.*
 
